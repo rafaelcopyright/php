@@ -1,5 +1,5 @@
 <?php
 
-	echo "Iae Planet!";
+	echo "Alteracaoooo!";
 
 ?>
